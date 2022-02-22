@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Combien que ce soit chose toute notoire et arreste, no[n] seuleme[n]t aux subiectz naturellement constitués, soubz la courronne dangleterre, mais encores a plusieurs aultres nations estrangieres, de toutes parties de la Chrestienté ...</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1559</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21608</idno>
+            <idno type="STC">STC 7910.7</idno>
+            <idno type="STC">ESTC S797</idno>
+            <idno type="EEBO-CITATION">22454730</idno>
+            <idno type="OCLC">ocm 22454730</idno>
+            <idno type="VID">25546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1775:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Combien que ce soit chose toute notoire et arreste, no[n] seuleme[n]t aux subiectz naturellement constitués, soubz la courronne dangleterre, mais encores a plusieurs aultres nations estrangieres, de toutes parties de la Chrestienté ...</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Par Rychard Iugge, &amp; Iehan Cavvood, imprimeurs pour la Maiestè de la Roine,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>M.D.LIX. [1559]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation.-- STC (2nd ed.).</note>
+                  <note>Title taken from first nine lines of text.</note>
+                  <note>Running title: Proclamation.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>"Donné a Vuestminster le xxiiij. de Mars, l'an seco[n]d de so[n] regne."--P. [11].</note>
+                  <note>Signatures: A⁸(-A1,A8)</note>
+                  <note>Reproduction of original in the Peterborough Cathedral. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="frm">frm</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  Foreign relations --  France --  1558-1603.</term>
+               <term>France --  Foreign relations --  Great Britain --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="frm">
+      <body>
+         <div type="text">
+            <pb facs="tcp:25546:1"/>
+            <!-- PDF PAGE 78 -->
+            <pb facs="tcp:25546:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <head>Proclamation.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ombien que ce ſoit choſe toute notoire et arreſte, no<g ref="char:cmbAbbrStroke">̄</g> ſeuleme<g ref="char:cmbAbbrStroke">̄</g>t aux ſubiectz natu<g ref="char:EOLhyphen"/>rellement conſtitués, ſoubz la courronne dangleterre, mais encores a pluſieurs aultres Nati<g ref="char:EOLhyphen"/>ons eſtrangieres, de toutes parties de la Chreſtienté, combien de grandes occaſions ont eſt depuis quelque te<g ref="char:cmbAbbrStroke">̄</g>ps en ca, par les Francoys donneés et con tynueés, a craindre leur inuaſion ſur ce Royaulme, principallement par la voye deſcoſſe, et auſſy a mettre en or<g ref="char:EOLhyphen"/>dre, appreſtes de forces conuenables, pour y reſiſter en toute diligence, par le meſme chemin deſcoſſe. Ce nonob<g ref="char:EOLhyphen"/>ſtant la Maieſté de la Royne conſy<g ref="char:EOLhyphen"/>derant en ceſt endroict la grande di<g ref="char:EOLhyphen"/>uerſité dopinions qui pourront ſour<g ref="char:EOLhyphen"/>dre entre les gens ſur ceſt affaire, a
+<pb facs="tcp:25546:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 79 -->bien uoulu &amp; a trouué bon, briefue<g ref="char:EOLhyphen"/>ment &amp; apertement mettre deuant le monde &amp; publier ſa deliberation, &amp; les iuſtes cauſes dicelle.</p>
+            <p>En premier lieu, ſa Maieſté de ſa debonnaire &amp; gratieuſe nature, ceſt contentée de croyre, que le tiltre iniu<g ref="char:EOLhyphen"/>rieuſement pretendu a ce Royaume, par la Royne deſcoſſe en ta<g ref="char:cmbAbbrStroke">̄</g>t de ſortes, neſt venu dailleurs, que de lambitieuſe uolonté des principaulx de la majſon de Guiſe, le<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>lz depuis nagueres ſe ſo<g ref="char:cmbAbbrStroke">̄</g>t emparés du gouernement de la cou<g ref="char:EOLhyphen"/>ronne de France. Et ne peult ſa Maie<g ref="char:EOLhyphen"/>ſte auſſi croyre, que ny le Roy, neſta<g ref="char:cmbAbbrStroke">̄</g>t (a loccaſion de ſes ieunes ans) capable de telle e<g ref="char:cmbAbbrStroke">̄</g>treprinſe, ny encore la Royne deſcoſſe, eſta<g ref="char:cmbAbbrStroke">̄</g>t auſſi en ſa minorité, ny auſſi les Princes du ſang Royal &amp; au tres eſtats de France, a qui par le paſ<g ref="char:EOLhyphen"/>ſè appartenoit &amp; deburoit apparte<g ref="char:EOLhyphen"/>nir le gouuernement des affaires dice<g ref="char:EOLhyphen"/>luy
+<pb facs="tcp:25546:2"/>
+               <!-- PDF PAGE 79 -->Royalme, durant la minorité du Roy, ont deulx meſmes imaginé ou deliberé une tant iniuſte, deſraiſona<g ref="char:EOLhyphen"/>ble, &amp; da<g ref="char:cmbAbbrStroke">̄</g>gereuſe enterprinſe que ceſt cy: comme elle apparoit, a toute per<g ref="char:EOLhyphen"/>ſonne de bon &amp; indifferent iugeme<g ref="char:cmbAbbrStroke">̄</g>t. Et conſiderant que ladicte maiſon de Guiſe, pour leur particulier auance<g ref="char:EOLhyphen"/>ment, naya<g ref="char:cmbAbbrStroke">̄</g>t aultre moyen pour y par<g ref="char:EOLhyphen"/>uenir, que par l'agrandiſſement &amp; ex<g ref="char:EOLunhyphen"/>altation de leur niepce la Royne de Eſcoſſe, ſoubz couleur de laquelle, ilz ſentremettent maintena<g ref="char:cmbAbbrStroke">̄</g>t au gouuer<g ref="char:EOLhyphen"/>nement du Royaume de France, ont en ceſte ſorte iniurieuſement &amp; inſo<g ref="char:EOLhyphen"/>lemment mis en auant, &amp; meſmes en temps de paix, es lieux publiques co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tinue de ſattribuer les armes &amp; tiltre de ces royaumes d Angleterre &amp; Ir<g ref="char:EOLhyphen"/>la<g ref="char:cmbAbbrStroke">̄</g>de, an nom de la Royne leur niepce, oultre beaucoup daultres treſgrandz reproches, meſmes (co<g ref="char:cmbAbbrStroke">̄</g>me il a eſté par
+<pb facs="tcp:25546:3"/>
+               <!-- PDF PAGE 80 -->pluſieurs, et pourta<g ref="char:cmbAbbrStroke">̄</g>t urayſe<g ref="char:cmbAbbrStroke">̄</g> blableme<g ref="char:cmbAbbrStroke">̄</g>t dict &amp; auoué) ſans laduis des Princes du ſang Royal, et aultres grandz per<g ref="char:EOLhyphen"/>ſonages, et ſages Conſeilliers, et de lon gue main experime<g ref="char:cmbAbbrStroke">̄</g>tes aux affaires du dict Royaulme. Et pour la pourſuite etexecutio<g ref="char:cmbAbbrStroke">̄</g> de ceſte leur tantiniuſte et ambitieuſe deliberatio<g ref="char:cmbAbbrStroke">̄</g>, ſe ſont aydez de lautorité du Roy, et de la Royne leur niepce. Eſta<g ref="char:cmbAbbrStroke">̄</g>t choſe hors du natu<g ref="char:EOLhyphen"/>rel, quelle entreprenne de tranſporter la couronne deſcoſſe, hors des mains du peuple naturel du pays, et par ainſi, partie auec<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> la force quilzy ont deſia enuoyeé ſoubz la couleur deua<g ref="char:cmbAbbrStroke">̄</g>t dicte, et partie quilzy ont de liberé denuoy er, vouloir pourſuiure linuaſion de ce Royaulme da<g ref="char:cmbAbbrStroke">̄</g>gleterre, duquel co<g ref="char:cmbAbbrStroke">̄</g>bien quepar pluſieurs moyens a gra<g ref="char:cmbAbbrStroke">̄</g>d tort, et fort deſhonorableme<g ref="char:cmbAbbrStroke">̄</g>t ilz ayent faict vtſurper le tiltre a leurniepce, encores ſcauent ilz bien, que par aultre uoye
+<pb facs="tcp:25546:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 80 -->que par eſcoſſe, ilz ny pourront iamais porter dommage euident et en cel ef<g ref="char:EOLhyphen"/>fect, quilz deſireroie<g ref="char:cmbAbbrStroke">̄</g>t. A ceſte cauſe, ſa Maieſté ayantbien experimenteé en beaucoup de calamites, la ſinguliere bo<g ref="char:cmbAbbrStroke">̄</g>té de dieu, etco<g ref="char:cmbAbbrStroke">̄</g>gnoiſſant le bo<g ref="char:cmbAbbrStroke">̄</g> droict de ſa cauſe, et la naturelle obeiſſaunce et amour de ſes loyaulx ſubiectes, Et prenantces inſolentes enterprinſes, ne proceder dailleurs, que du ſiniſter portement de ceulx de la maiſon de Guiſe, durant la minorite du Roy, et de la Royne, ſans aulcunement ve<g ref="char:EOLhyphen"/>nir du conſentiment des Princes du ſang, et aultres grandes Seigneurs et eſtatz de France: et nayant de ſa propre nature et iuge ne<g ref="char:cmbAbbrStroke">̄</g>t, aultre plus grand deſir, que de continuer et gar der la paix auecq tous princes Chri<g ref="char:EOLhyphen"/>ſtiens (voire en ce temps et facon de portementz tant difficiles et eſtra<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ges) auec les Royaulmes meſmes de
+<pb facs="tcp:25546:4"/>
+               <!-- PDF PAGE 81 -->France et deſcoſſe, et tous les ſubiectz de iceulx: faict entendre a toute ſorte de perſonnes en general, quencores que ſa maieſté ayt eſté contraincte a ſes grandz deſpens, de mettre en or<g ref="char:EOLhyphen"/>dre, tant per mer que par terre, quel<g ref="char:EOLhyphen"/>ques forces pour la ſeureté de ſon roy<g ref="char:EOLhyphen"/>aume, eſtant telleme<g ref="char:cmbAbbrStroke">̄</g>t par parolles &amp; faulx tiltre querellé, &amp; auecq force de gens de guerre francoiſes de ſi pres approché, &amp; de iour en iour menacé de plus grandes forces encore, Ce ne<g ref="char:EOLhyphen"/>antmoins ſa Maieſté nentend de faire aulcune crualté, hoſtilité, ou guerre, ains cherche ſeulement &amp; ſouhaite, &amp; par pluſieurs fois auſſi aperteme<g ref="char:cmbAbbrStroke">̄</g>t &amp; amiablement a requis, du Cardi<g ref="char:EOLhyphen"/>nal de Lorraine, &amp; de ſon frere, &amp; par leur moye<g ref="char:cmbAbbrStroke">̄</g> auſſi du Roy de Fra<g ref="char:cmbAbbrStroke">̄</g>ce, que ces tiltres &amp; querelles trop inſo<g ref="char:EOLhyphen"/>lentes fuſſent ceſſees &amp; reuoquées, &amp; quon uoulſiſt accorder au peuple de
+<pb facs="tcp:25546:4"/>
+               <!-- PDF PAGE 81 -->Eſcoſſe une ſi paiſible &amp; naturelle maniere de gouuerneme<g ref="char:cmbAbbrStroke">̄</g>t, que ne ſeſloi<g ref="char:EOLunhyphen"/>gnantz de la deüe obeiſſance de leur Souueraine (comme ilz offrent) ilz neuſſent a craindre plus doppreſſion &amp; conqueſte: Et conſequemment que les gens de guerre francois qui ſont en Eſcoſſe fuſſent reuoqueés, eſtantz a raiſon des premieres iniures faictes contre ce royaume, trop dangereux pour y eſtre enduréz ſi pres dangle<g ref="char:EOLhyphen"/>terre. Et affin que<g ref="char:cmbAbbrStroke">̄</g> leur reuocatio<g ref="char:cmbAbbrStroke">̄</g> fuſt procedé auecques plus gra<g ref="char:cmbAbbrStroke">̄</g>de dilige<g ref="char:cmbAbbrStroke">̄</g>ce, on a offert de leur bailler ſaufco<g ref="char:cmbAbbrStroke">̄</g>duict ta<g ref="char:cmbAbbrStroke">̄</g>t par mer que par terre, ou par lu<g ref="char:cmbAbbrStroke">̄</g>g &amp; lautre, auecq toute la faueur &amp; aſſeurance do<g ref="char:cmbAbbrStroke">̄</g>t on ſe peult auiſer pour leur partiment. Et ſelon que leur for<g ref="char:EOLhyphen"/>ces ſeroye<g ref="char:cmbAbbrStroke">̄</g>t diminueés, celles de ſa Ma<g ref="char:EOLunhyphen"/>ieſté par mer &amp; par terre, ſeroyent auſſi au meſme inſta<g ref="char:cmbAbbrStroke">̄</g>t caſſées, &amp; par ainſi toute occaſion de doleances ſe<g ref="char:EOLhyphen"/>roit
+<pb facs="tcp:25546:5"/>
+               <!-- PDF PAGE 82 -->e<g ref="char:cmbAbbrStroke">̄</g>ſeuelie &amp; mis en oublie, &amp; une paix ferme &amp; ſincere eſtablie. Auſq<g ref="char:cmbAbbrStroke">̄</g>l les requeſtes tant agreables a equite, raiſon, et honneur, par pluſieurs fois faictes, ſa Maieſté ne peult aulcu<g ref="char:EOLhyphen"/>nement auoir reſponce ſuffiſante, com<g ref="char:EOLunhyphen"/>bien que grand temps y ayt eſté em<g ref="char:EOLhyphen"/>ployé aux grandz frais de ſa Maie<g ref="char:EOLhyphen"/>ſté, et au delay euident de paix, et amitie. Et finallement, ſa Maieſté faict ſcauo ir a tous, quelle continue et veult continuer en bonne paix, a<g ref="char:EOLhyphen"/>uecques les Royaulmes de France et Eſcoſſe, ce pendant quilzne feront in uaſion manifeſte ſurſes pais, domi<g ref="char:EOLhyphen"/>nions et peuple: Et taſchera par tous bons moyens que ſoit miſe, vne vnion et bon accord en eſcoſſe, et que les Souldartz francoys qui y veulent reſiſter, ſen puiſſent aller, ſans dan<g ref="char:EOLhyphen"/>ger et dommage. Ce que ſilz refuſent de faire, fault neceſſairement apres
+<pb facs="tcp:25546:5"/>
+               <!-- PDF PAGE 82 -->touts ces bons moyens vſes, et apres tant de delays faictz de la part de France, que ſa Maieſté face ſon ef<g ref="char:EOLhyphen"/>fort a les contraindre ſen retirer, ſans aultrement vſer de violence quel<g ref="char:EOLhyphen"/>quonque, contre aulcune perſonne, ou defrance ou deſcoſſe. Pourta<g ref="char:cmbAbbrStroke">̄</g>t ſa Maie<g ref="char:EOLunhyphen"/>ſté commande et eſtroiteme<g ref="char:cmbAbbrStroke">̄</g>t enioynet a tous ſes Subiectz de queleſtat quilz ſoyent, de monſtrer toute faueur &amp; amitie a touts les Subiectz du Roy de france, et les ꝑmettre de traffi<g ref="char:EOLhyphen"/>quer en toutesſortes de marchandiſes comme en temps de meilleure paix a eſté accouſtumé: et deburoit eſtre per mis, ſi neſt que par hoſtilite de aulcu<g ref="char:EOLhyphen"/>ns de la parte de france, ilz ſoyent co<g ref="char:cmbAbbrStroke">̄</g> traintz a ſe defendre eulx meſmes ou leur pais. Et auſſy que tous leſdictz, Subiectz de ſa Maieſté vſeront de bon et honneſte language du Royau<g ref="char:EOLhyphen"/>me et Nation de france, et non ob<g ref="char:EOLhyphen"/>ſtant
+<pb facs="tcp:25546:6"/>
+               <!-- PDF PAGE 83 -->toutes ces grandes iniures de nagueres faictes, comme deſſus eſt dict, contre la Couronne de Angleter<g ref="char:EOLhyphen"/>re, n'en iugeront aultrement, que ſa maieſté de ſa bo<g ref="char:cmbAbbrStroke">̄</g>ne inclinatio<g ref="char:cmbAbbrStroke">̄</g> ne croit &amp; iuge elle meſme. Et ne feront aul<g ref="char:EOLhyphen"/>tres appreſtes de guerre, q<g ref="char:cmbAbbrStroke">̄</g> celles qui pourro<g ref="char:cmbAbbrStroke">̄</g>t ſeruir pour la defe<g ref="char:cmbAbbrStroke">̄</g>ce de telles iniures &amp; entreprinſes, qui ſero<g ref="char:cmbAbbrStroke">̄</g>t fai<g ref="char:EOLhyphen"/>ctes &amp; dreſseés ſur ce royaume (con<g ref="char:EOLhyphen"/>tre ce que ſa maieſté deſire &amp; atte<g ref="char:cmbAbbrStroke">̄</g>d) par l'inſtigation de ladicte maiſon de Guiſe, aya<g ref="char:cmbAbbrStroke">̄</g>t mai<g ref="char:cmbAbbrStroke">̄</g>tena<g ref="char:cmbAbbrStroke">̄</g>t e<g ref="char:cmbAbbrStroke">̄</g>tre leur mains l'entier gouuernement du Roy &amp; de la Royne, iuſques a tant qu'on uoye ſi le dictroyaume &amp; nation de France, entendent de faire plus oultre aucune inuaſion ſur ce Royaume, &amp; qu'ainſi la preſente bonne opinion de ſa dicte maieſté ſoit mal conceüe. Dequoy co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>bien que ſa Maieſté ſeroit bie<g ref="char:cmbAbbrStroke">̄</g> marrie &amp; fort deſplaiſante, pour l'empeſche<g ref="char:EOLunhyphen"/>ment &amp; retardement de la paix co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mune
+<pb facs="tcp:25546:6"/>
+               <!-- PDF PAGE 83 -->de toute la Chreſtienté, (ce que elle deſire ſur tout) encores neſt il pas a doubter, que le Seigneur tout puiſ<g ref="char:EOLhyphen"/>ſant ne uueille ayder &amp; aſſiſter aux forces de ce royaume, pour le garder de tous tel da<g ref="char:cmbAbbrStroke">̄</g>gers, et ſe uenger des in iures offertes, auecq' honneur, co<g ref="char:cmbAbbrStroke">̄</g>me le cas le requerra. Et pour mieux do<g ref="char:cmbAbbrStroke">̄</g>ner cecy a entendre a toutes perſonnes, ſa Maieſte l'auoulu expreſſement faire publier en Francois &amp; Anglois, que no<g ref="char:cmbAbbrStroke">̄</g>obſta<g ref="char:cmbAbbrStroke">̄</g>t quo<g ref="char:cmbAbbrStroke">̄</g> en ait faict particuliere declaration au roy de France, &amp; au<g ref="char:EOLhyphen"/>dictz Seigneurs de Guiſe, a la Royne Douaiere d'eſcoſſe, &amp; a tous les Em<g ref="char:EOLhyphen"/>baſſiadeurs de Fra<g ref="char:cmbAbbrStroke">̄</g>ce de par de ca (ny pouuant encores auoir reſponſe ſuffi<g ref="char:EOLhyphen"/>ſante) e<g ref="char:cmbAbbrStroke">̄</g>cores ne ſeroit celé aux autres qui poſsible pourroie<g ref="char:cmbAbbrStroke">̄</g>t eſtre induictz a croire des choſes aultrement que la uerité n'eſt. Donné a Vueſtminſter le xxiiij. de Mars, l'an ſeco<g ref="char:cmbAbbrStroke">̄</g>d de ſo<g ref="char:cmbAbbrStroke">̄</g> regne.</p>
+            <closer>
+               <signed>Viue la Royne.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:25546:7"/>
+            <!-- PDF PAGE 84 -->
+            <p>
+               <hi>A Londres.</hi> Par Rychard Iugge, &amp; Iehan Cavvood, impri meurs pour la Maieſtè de la Roine.</p>
+            <p>Lan. M.D.L IX.</p>
+            <pb facs="tcp:25546:7"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </back>
+   </text>
+</TEI>
